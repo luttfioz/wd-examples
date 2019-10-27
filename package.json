@@ -10,7 +10,9 @@
   "license": "ISC",
   "devDependencies": {
     "assert": "^2.0.0",
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
     "colors": "^1.4.0",
-    "wd": "^1.11.4",
+    "wd": "^1.11.4"
   }
 }
